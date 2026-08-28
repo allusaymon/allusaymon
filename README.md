@@ -1,16 +1,30 @@
-## Hi there 👋
+## Bem-vindo(a) ao meu perfil!
 
-<!--
-**allusaymon/allusaymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/imn4nda/imn4nda/blob/main/cat-waving-hand.gif" width="120">
 
-Here are some ideas to get you started:
+  - :sparkles: Meu nome é Saymon Madson dos Santos Brito.
+  - 💡 Atualmente graduando de Análise e Desenvolvimento de Sistemas no Centro Universitário Estácio do Ceará.
+  - 📝 Sempre em constante aprendizado!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Estudando
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+---
+### Contatos
+<p align="left">
+  <a href="https://www.linkedin.com/in/saymon-madson-9b419a379/">
+    <img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:symonmadson08@gmail.com">
+    <img loading="lazy" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
