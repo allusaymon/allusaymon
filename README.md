@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/allusaymon/allusaymon/blob/main/200.gif" width="120">
 
   - :sparkles: Meu nome é Saymon Madson dos Santos Brito.
-  - 💡 Atualmente graduando de Análise e Desenvolvimento de Sistemas no Centro Universitário Estácio do Ceará.
+  - 💡 Atualmente no 4º semestre de graduação, me consagrando como graduando de Análise e Desenvolvimento de Sistemas no Centro Universitário Estácio do Ceará.
   - 📝 Sempre em constante aprendizado!
 
 ---
