@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil!
 
-<img align="right" src="https://github.com/imn4nda/imn4nda/blob/main/cat-waving-hand.gif" width="120">
+<img align="right" src="https://github.com/allusaymon/allusaymon/blob/main/200.gif" width="120">
 
   - :sparkles: Meu nome é Saymon Madson dos Santos Brito.
   - 💡 Atualmente graduando de Análise e Desenvolvimento de Sistemas no Centro Universitário Estácio do Ceará.
