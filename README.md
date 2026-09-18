@@ -8,7 +8,7 @@
 
 <div align="left">  
   <img width="49%" height="195px" src="https://ghstats.dev/api/card?username=allusaymon&theme=radical&border_radius=8.5&cache=1789772484601" alt="Saymon github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=allusaymon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="41%" height="195px" src="https://ghstats.dev/api/langs?username=allusaymon&theme=radical&cache=1789772918573" />
 </div>
 
 ---
