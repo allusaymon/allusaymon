@@ -8,7 +8,7 @@
 
 <div align="left">  
   <img width="35%" height="197px" src="https://ghstats.dev/api/card?username=allusaymon&theme=radical&border_radius=8.5&cache=1789772484601" alt="Saymon github stats"/> 
-  <img width="41%" height="195px" src="https://ghstats.dev/api/langs?username=allusaymon&theme=radical&cache=1789772918573" />
+  <img width="41%" height="150px" src="https://ghstats.dev/api/langs?username=allusaymon&theme=radical&cache=1789772918573" />
 </div>
 
 ---
