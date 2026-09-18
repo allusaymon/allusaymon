@@ -7,7 +7,7 @@
   - 📝 Sempre em constante aprendizado!
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://ghstats.dev/api/card?username=allusaymon&theme=radical&border_radius=8.5&cache=1789772484601" alt="Saymon github stats"/> 
+  <img width="49%" height="245px" src="https://ghstats.dev/api/card?username=allusaymon&theme=radical&border_radius=8.5&cache=1789772484601" alt="Saymon github stats"/> 
   <img width="41%" height="195px" src="https://ghstats.dev/api/langs?username=allusaymon&theme=radical&cache=1789772918573" />
 </div>
 
