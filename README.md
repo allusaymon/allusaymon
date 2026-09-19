@@ -10,11 +10,6 @@
   <img width="48%"  src="https://ghstats.dev/api/card?username=allusaymon&theme=radical&border_radius=8.5&cache=1789772484601" alt="Saymon github stats"/> 
   <img width="48%"  src="https://ghstats.dev/api/langs?username=allusaymon&theme=radical&cache=1789772918573" alt= "Linguagens que mais uso" />
 </div>
-
-<p align="center">
-  <img width="48%" src="https://ghstats.dev/api/card?username=allusaymon&theme=radical&border_radius=8.5&cache=1789772484601" alt="Saymon github stats"/>
-  <img width="48%" src="https://ghstats.dev/api/langs?username=allusaymon&theme=radical&cache=1789772918573" alt="Top Languages"/>
-</p>
 ---
 ### Estudando
 <p align="left">
